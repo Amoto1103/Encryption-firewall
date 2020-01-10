@@ -1,0 +1,7 @@
+# Object files
+*.o
+*.s
+
+# CLion Project
+.idea/
+cmake-build-debug/
